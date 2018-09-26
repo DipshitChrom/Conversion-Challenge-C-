@@ -1,0 +1,6 @@
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code\Coding Challenge 2 Conversion\bin\Debug\Coding Challenge 2 Conversion.exe.config
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code\Coding Challenge 2 Conversion\bin\Debug\Coding Challenge 2 Conversion.exe
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code\Coding Challenge 2 Conversion\bin\Debug\Coding Challenge 2 Conversion.pdb
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code\Coding Challenge 2 Conversion\obj\Debug\Coding Challenge 2 Conversion.csprojResolveAssemblyReference.cache
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code\Coding Challenge 2 Conversion\obj\Debug\Coding Challenge 2 Conversion.exe
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code\Coding Challenge 2 Conversion\obj\Debug\Coding Challenge 2 Conversion.pdb
